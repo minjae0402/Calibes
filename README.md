@@ -1,3 +1,2 @@
 # Calibes
-hello...
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?minjae0402=anuraghazra&show_icons=true&theme=radical)
+hello...\
